@@ -1,7 +1,7 @@
 INTRODUCTION:
 
-Sequence alignment handles 2 sequences, S1 and S2, and returns the best alignment between the prefixes.
-In other words, ending spaces for both S1 and S2 are forgiven.
+Sequence alignment handles 2 sequences and returns their best alignment between prefixes.
+In other words, ending spaces for both sequences are forgiven.
 
 Three programs are implemented in python: 
   - standard dynamic programming (align_DP.py)
